@@ -1,3 +1,8 @@
+# Modified and improved from tutorials of DataCamp
+# This page illustrates key steps of building deep neural networks in Keras
+# A lot of functions in Pandas, Numpy, and Matplotlib have been deployed
+
+
 # 1.Key steps:
 (1)Understand, explore and visualize your data;
 (2)Preprocess data, including split up your data into train and test sets and standardize your data;
